@@ -1,1 +1,4 @@
-const hp = 110;
+const hp = 90;
+let stims = 2;
+
+
