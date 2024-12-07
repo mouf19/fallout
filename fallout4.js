@@ -3,3 +3,4 @@ let stims = 2;
 
 
 let generator = 2;
+let watpur = 1;
